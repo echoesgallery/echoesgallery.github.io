@@ -1,0 +1,25 @@
+{
+  "name": "The Bluffs",
+  "description": "The Bluffs, is an escarpment in the Scarborough district of Toronto, Ontario, Canada. The Bluffs run 15 kilometres (9.3 mi) and reaching as high as 90 metres (300 ft), forming much of the eastern portion of Toronto's waterfront. Despite the rapid erosion and frequent fooding, the Bluffs remain a sought after destination for visitors.",
+  "image": "https://ipfs.io/ipfs/QmZ5F9Ws73oLETiutCQPKPYhX77ZXkd9waQiVowX8Ps2br/IMG.jpg",
+  "external_url" : "https://ipfs.io/ipfs/QmZ5F9Ws73oLETiutCQPKPYhX77ZXkd9waQiVowX8Ps2br",
+  "attributes": [
+    {
+      "trait_type": "Creator", 
+      "value": "Cornelian"
+    }, 
+    {
+      "trait_type": "Charm Power", 
+      "value": "Tranquility of sand"
+    }, 
+    {
+      "trait_type": "Country", 
+      "value": "Canada"
+    }, 
+    {
+      "trait_type": "Geology", 
+      "value": "escarpment"
+    }
+      ],
+      "animation_url" : "https://ipfs.io/ipfs/QmZ5F9Ws73oLETiutCQPKPYhX77ZXkd9waQiVowX8Ps2br"
+}

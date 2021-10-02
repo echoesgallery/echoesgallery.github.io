@@ -1,0 +1,8 @@
+{
+    "name": "EChOes Gallery",
+    "description": "EChOes Gallery brings into light places that are being transformed drastically by nature's hand or human ambitions. Our artistic tokens created today are inspiring actions for new beginnings.",
+    "image": "https://echoesgallery.github.io/images/echoes-logo.png",
+    "external_link": "https://echoesgallery.github.io",
+    "seller_fee_basis_points": 100, 
+    "fee_recipient": "0x847680bF92f551a1429Fb921Ed2ee143620f8B5e" 
+  }
